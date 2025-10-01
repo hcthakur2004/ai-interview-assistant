@@ -35,7 +35,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
+git remote add origin https://github.com/hcthakur2004/ai-interview-assistant.git
 git push -u origin main
 ```
 
